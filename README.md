@@ -24,8 +24,6 @@ I like:
 <!-- </p> -->
 
 <br />
-<br />
-<br />
 
 ## My setup
 
