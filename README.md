@@ -23,6 +23,9 @@ I like:
 <img align="left" width="30px" height="auto" alt="Linux" title="Linux" src="https://simpleicons.org/icons/linux.svg" />
 <!-- </p> -->
 
+<br />
+<br />
+<br />
 
 ## My setup
 
