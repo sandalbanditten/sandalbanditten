@@ -30,4 +30,4 @@ If you are interested, [here](https://github.com/sandalbanditten/dotfiles) is my
 ## Most Used Languages
 
 <!-- Github Stats -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandalbanditten&layout=compact&hide=starlark,objective-c,objective-c%2B%2B&langs_count=10&hide_border=true&title_color=5764a6&text_color=5764a6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandalbanditten&langs_count=10&hide_border=true&theme=github_dark)
