@@ -3,9 +3,10 @@
 I am studying programming and math in a Danish gymnasium called Aarhus TECH.
 
 I like:
-* Linux
-* C
 * Shell scripting
+* C
+* LaTeX
+* Linux
 * Arduinos
 
 ## Languages and Tools
@@ -15,6 +16,7 @@ I like:
 <img align="left" width="30px" height="auto" alt="Git" title="Git" src="https://simpleicons.org/icons/git.svg" />
 <img align="left" width="30px" height="auto" alt="LaTex" title="LaTex" src="https://simpleicons.org/icons/latex.svg" />
 <img align="left" width="30px" height="auto" alt="Linux" title="Linux" src="https://simpleicons.org/icons/linux.svg" />
+<img align="left" width="30px" height="auto" alt="Arduino" title="Arduino" src="https://simpleicons.org/icons/arduino.svg" />
 <!-- </p> -->
 
 <br />
