@@ -7,6 +7,7 @@ I am studying programming and math in a Danish gymnasium called Aarhus TECH.
 I like:
 * Shell scripting
 * C
+* Haskell
 * LaTeX
 * Linux
 * Arduinos
@@ -15,6 +16,7 @@ I like:
 <!-- <p align="left"> -->
 <img align="left" width="30px" height="auto" alt="Bash" title="Bash" src="https://simpleicons.org/icons/gnubash.svg" />
 <img align="left" width="30px" height="auto" alt="C" title="C" src="https://simpleicons.org/icons/c.svg" />
+<img align="left" width="30px" height="auto" alt="C" title="C" src="https://simpleicons.org/icons/haskell.svg" />
 <img align="left" width="30px" height="auto" alt="Git" title="Git" src="https://simpleicons.org/icons/git.svg" />
 <img align="left" width="30px" height="auto" alt="LaTex" title="LaTex" src="https://simpleicons.org/icons/latex.svg" />
 <img align="left" width="30px" height="auto" alt="Linux" title="Linux" src="https://simpleicons.org/icons/linux.svg" />
@@ -25,7 +27,7 @@ I like:
 
 ## My setup
 
-For most of my programming needs i use neovim, clang and zsh or sh->dash.
+For most of my programming needs i use neovim, clang, ghc and zsh or sh->dash.
 
 If you are interested, [here](https://github.com/sandalbanditten/dotfiles) is my config.
 
