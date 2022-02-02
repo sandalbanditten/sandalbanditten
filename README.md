@@ -7,7 +7,6 @@ I am studying programming and math in a Danish gymnasium called Aarhus TECH.
 I like:
 * Shell scripting
 * C
-* Haskell
 * LaTeX
 * Linux
 * Arduinos
@@ -27,7 +26,7 @@ I like:
 
 ## My setup
 
-For most of my programming needs i use neovim, clang, ghc and zsh or sh->dash.
+For most of my programming needs i use neovim, clang  and zsh or sh->dash.
 
 If you are interested, [here](https://github.com/sandalbanditten/dotfiles) is my config.
 
