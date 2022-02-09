@@ -25,7 +25,7 @@ I like:
 
 ## My setup
 
-For most of my programming needs i use neovim, clang  and zsh or sh->dash.
+For most of my programming needs i use neovim, gcc  and zsh or sh->dash.
 
 If you are interested, [here](https://github.com/sandalbanditten/dotfiles) is my config.
 
