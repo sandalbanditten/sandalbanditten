@@ -5,7 +5,7 @@ Fear not the man who has written "Hello World" in 10,000 languages once, but the
 I am studying programming and math in a Danish gymnasium called Aarhus TECH.
 
 I like:
-* Shell scripting
+* Haskell
 * Rust
 * LaTeX
 * Linux
@@ -19,11 +19,11 @@ I like:
 <img align="left" width="30px" height="auto" alt="Linux" title="Linux" src="https://simpleicons.org/icons/linux.svg" />
 <!-- </p> -->
 
-<br />
+<br/>
 
 ## My setup
 
-For most of my programming needs i use neovim, cargo and zsh or sh->dash.
+For most of my programming needs i use helix, cabal, cargo and zsh or sh->dash.
 
 If you are interested, [here](https://github.com/sandalbanditten/dotfiles) is my config.
 
