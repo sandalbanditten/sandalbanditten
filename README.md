@@ -12,7 +12,7 @@ I like:
 
 ## Languages and Tools
 <!-- <p align="left"> -->
-<img align="left" width="30px" height="auto" alt="Bash" title="Bash" src="https://simpleicons.org/icons/gnubash.svg" />
+<img align="left" width="30px" height="auto" alt="Bash" title="Haskell" src="https://simpleicons.org/icons/haskell.svg" />
 <img align="left" width="30px" height="auto" alt="Rust" title="Rust" src="https://simpleicons.org/icons/rust.svg" />
 <img align="left" width="30px" height="auto" alt="Git" title="Git" src="https://simpleicons.org/icons/git.svg" />
 <img align="left" width="30px" height="auto" alt="LaTex" title="LaTex" src="https://simpleicons.org/icons/latex.svg" />
