@@ -23,7 +23,7 @@ I like:
 
 ## My setup
 
-For most of my programming needs i use helix, cabal, cargo and zsh or sh->dash.
+For most of my programming needs i use helix, cabal, cargo and nu or sh->dash.
 
 If you are interested, [here](https://github.com/sandalbanditten/dotfiles) is my config.
 
